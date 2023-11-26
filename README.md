@@ -69,12 +69,7 @@
 
 ## Botfather Commands
 ```
-start - Bot Alive Cheking
-view_thumb - View Thumbnail
-del_thumb - Delete Thumbnail
-set_caption - Set A Custom Caption
-see_caption - See Your Custom Caption
-del_caption - Delete Custom Caption
+start - Bot Alive Cheking.
 restart - To Rrstart The Bot (Admin Only)
 status - Check Bot Status (Admin Only)
 broadcast - Send Message To All Users (Admin Only)
