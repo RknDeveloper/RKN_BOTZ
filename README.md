@@ -1,10 +1,10 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝗪𝗘𝗟𝗖𝗢𝗠+𝗧𝗢+𝐑𝐊𝐍+𝐑𝐄𝐍𝐀𝐌𝐄+𝐁𝐎𝐓!;𝗖𝗥𝗘𝗔𝗧𝗘𝗗+𝗕𝗬+𝚁𝙺𝙽+𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁!;𝗔+𝗦𝗜𝗠𝗣𝗟𝗘+𝗧𝗚+𝐑𝐄𝐍𝐀𝐌𝐄+𝗕𝗢𝗧!)</p>
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝗪𝗘𝗟𝗖𝗢𝗠+𝗧𝗢+𝐑𝐊𝐍+𝐁𝐎𝐓Z!;𝗖𝗥𝗘𝗔𝗧𝗘𝗗+𝗕𝗬+𝚁𝙺𝙽+𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁!;𝗔+𝗦𝗜𝗠𝗣𝗟𝗘+𝗧𝗚+𝐑KN+𝗕𝗢𝗧Z!)</p>
 # 
 
 <p align="center">
-  <img src="https://graph.org/file/9dc402f2ba612e3f6dfbf.jpg" alt="RKN RENAME BOT V2">
+  <img src="https://graph.org/file/e0a0ee5db5fe03c23c12f.jpg" alt="RKN RENAME BOT V2">
 </p>
 
 <p align="center">
@@ -82,7 +82,7 @@ broadcast - Send Message To All Users (Admin Only)
 
 ## ❣️Thanks To
 
-- Thanks To TEAM-PYRO-BOTZ For His Awesome [PYRO-RENAME-BOT](https://github.com/TEAM-PYRO-BOTZ/PYRO-RENAME-BOT.git)
+- Thanks To RKN DEVELOPER For His Awesome [RKN-RENAME-BOT](https://github.com/RknDeveloper/Rkn-Powerful-Rename-Bot))
 - Thanks To [RknDeveloper](https://github.com/RknDeveloper) who have edited and modified this repo as now it is. (It's me 😂)
 
 
