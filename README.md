@@ -17,11 +17,7 @@
 </p>
 
 
-### Sᴀᴍᴩʟᴇ Bᴏᴛ (Official RKN Rename Bot)
-
-<p align="center">
-🤖 <a href="http://t.me/RKN_DEVELOPER_RENAME_BOT"><img title="Telegram" src="https://img.shields.io/static/v1?label=RKN+RENAME&message=BOT&color=blue-green"></a> 🤖
-</p>
+### Tested Bot ✓
 
 ## Deploy Me 🥀
 
